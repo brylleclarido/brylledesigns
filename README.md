@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I'm Brylle and I am student who loves to work on design and frontend web development!
+
 <!--
 **brylledesigns/brylledesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
