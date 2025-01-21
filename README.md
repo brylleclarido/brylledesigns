@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Brylle and I am designer who loves to work on design and frontend web development and building apps too!S
+### I'm Brylle and I am designer who loves to work on design and frontend web development and building apps too!
 
 <!--
 **brylledesigns/brylledesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
